@@ -16,8 +16,6 @@
 <br>
 
 - A passionate Fullstack web developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
 
 <br><br>
 
@@ -86,11 +84,6 @@
 </div>
 
 <br>
-<br>
-<br>
-
------
-
 <br>
 <br>
 
