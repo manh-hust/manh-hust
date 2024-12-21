@@ -65,9 +65,7 @@
 
 If you want to know more about me or have any questions, feel free to reach out:
 
--   Email: [doducmanh.bb@example.com](mailto:doducmanh.bb@gmail.com)
--   LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
--   Twitter: [@your-twitter-handle](https://twitter.com/your-twitter-handle)
+-   Email: [doducmanh.bb@gmail.com](mailto:doducmanh.bb@gmail.com)
 
 <br>
 
